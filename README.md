@@ -1,5 +1,5 @@
 # Multi-Linear-Regression-House-Prices
-This repository builds a Linear Regression model for Scikit Learn's California House-Prices Dataset. 
+This repository builds a Linear Regression model for Scikit Learn's California House Prices Dataset. 
 
 ## Snippet of the dataset
 ![image](https://github.com/marvin-rubia/Multi-Linear-Regression-House-Prices/assets/140475770/2fd1a2e2-61c2-4e32-95b1-5bb75aa84a20)
